@@ -25,5 +25,18 @@ namespace Doador.API.Controllers
         {
             return await _doadorService.PostAsync(command);
         }
+        [HttpPut]
+        [Route("UpdateAsync")]
+        public async Task<string> UpdateAsync([FromBody]DoadorCommand command)
+        {
+            return await _doadorService.UpdateAsync(command);
+        }
+        [HttpPut]
+        [Route("DeleteAsync")]
+        public async Task<string> DeleteAsync(string email)
+        {
+            return await _doadorService.DeleteAsync(email);
+        }
+
     }
 }

@@ -14,9 +14,17 @@ namespace Doador.service.Service
         {
             return _repository.GetAsync();
         }
-        public Task<string> PostAsync(DoadorCommand command)
+        public Task<string> PostAsync(  DoadorCommand command)
         {
             return _repository.PostAsync(command);
+        }
+        public Task<string> UpdateAsync(DoadorCommand command)
+        {
+            return _repository.UpdateAsync(command);
+        }
+        public Task<string> DeleteAsync(string email)
+        {
+            return _repository.DeleteAsync(email);
         }
     }
 }
