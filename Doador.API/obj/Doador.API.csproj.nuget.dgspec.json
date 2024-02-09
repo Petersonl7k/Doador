@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.API\\Doador.API.csproj": {}
+    "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.API\\Doador.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\Doador.Repository.csproj": {
+    "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\Doador.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\Doador.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\Doador.Repository.csproj",
         "projectName": "Doador.Repository",
-        "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\Doador.Repository.csproj",
-        "packagesPath": "C:\\Users\\peterson.psteixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\obj\\",
+        "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\Doador.Repository.csproj",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\peterson.psteixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj": {
-                "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj"
+              "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj": {
+                "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj"
               }
             }
           }
@@ -73,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.API\\Doador.API.csproj": {
+    "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.API\\Doador.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.API\\Doador.API.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.API\\Doador.API.csproj",
         "projectName": "Doador.API",
-        "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.API\\Doador.API.csproj",
-        "packagesPath": "C:\\Users\\peterson.psteixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.API\\obj\\",
+        "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.API\\Doador.API.csproj",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\peterson.psteixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -99,17 +100,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj": {
-                "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj"
+              "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj": {
+                "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj"
               },
-              "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\Doador.service.csproj": {
-                "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\Doador.service.csproj"
+              "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\Doador.service.csproj": {
+                "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\Doador.service.csproj"
               }
             }
           }
@@ -148,24 +150,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj": {
+    "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj",
         "projectName": "Doador.Domain",
-        "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj",
-        "packagesPath": "C:\\Users\\peterson.psteixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\peterson.psteixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -174,6 +176,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -207,24 +210,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\Doador.service.csproj": {
+    "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\Doador.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\Doador.service.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\Doador.service.csproj",
         "projectName": "Doador.service",
-        "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\Doador.service.csproj",
-        "packagesPath": "C:\\Users\\peterson.psteixeira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.service\\obj\\",
+        "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\Doador.service.csproj",
+        "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\peterson.psteixeira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -233,17 +236,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\Doador.Repository.csproj": {
-                "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Dador.Repository\\Doador.Repository.csproj"
+              "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\Doador.Repository.csproj": {
+                "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Dador.Repository\\Doador.Repository.csproj"
               },
-              "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj": {
-                "projectPath": "C:\\Users\\peterson.psteixeira\\source\\repos\\Doador.API\\Doador.Domain\\Doador.Domain.csproj"
+              "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj": {
+                "projectPath": "C:\\Users\\Peter\\source\\repos\\Doador\\Doador.Domain\\Doador.Domain.csproj"
               }
             }
           }
@@ -273,7 +277,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
